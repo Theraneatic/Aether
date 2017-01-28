@@ -271,7 +271,7 @@ bot.on("message", function (message) {
         if (message.content === "*restart") {
             message.channel.sendMessage("Restarting...");
             bot.destroy()
-            bot.login("MjY1Mjg5OTQxNDQ4MTMwNTYw.C0ySSQ.kT38kvPUL3frKnNEAeT65x5Zu3o")
+            bot.login("")
 		}
 });
 
