@@ -13,7 +13,15 @@ Aether will disable the profanity filter.
 Aether will send you this github repository.
 *permissions
 Aether will tell you your permissions.
-help
+*help
 Aether will give you some help and link you here.
 *createrole
 Aether will create a new role, if the requried permissions are given to it.
+*botping
+Aether will return the ping of the bot.
+*channelid
+Aether will return the channel ID of the channel the message was sent in
+*myavatar
+Aether will return the link to your profile picture
+*readyat
+Aether will return the date at which it was in the ready state.
