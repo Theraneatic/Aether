@@ -25,3 +25,5 @@ Aether will return the channel ID of the channel the message was sent in
 Aether will return the link to your profile picture
 *readyat
 Aether will return the date at which it was in the ready state.
+*invite
+Aether will generate a bot invite so you can invite Aether to your server!
