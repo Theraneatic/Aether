@@ -1,10 +1,6 @@
 Aether Commands:
 *ping 
 Aether will respond to this message telling you how long it took to be processed and for the message to be returned.
-*stats
-Aether will tell you some stats about the server you are in and some stats about the bot in general.
-*uptime
-Aether will respond with a message stating how long it has been online.
 *filterenable
 Aether will enable a profanity filter.
 *filterdisable
@@ -17,13 +13,13 @@ Aether will tell you your permissions.
 Aether will give you some help and link you here.
 *createrole
 Aether will create a new role, if the requried permissions are given to it.
-*botping
-Aether will return the ping of the bot.
-*channelid
-Aether will return the channel ID of the channel the message was sent in
-*myavatar
-Aether will return the link to your profile picture
-*readyat
-Aether will return the date at which it was in the ready state.
 *invite
 Aether will generate a bot invite so you can invite Aether to your server!
+*guildinfo
+Aether will send the guild information.
+*channelinfo
+Aether will send the channel's information.
+*myinfo
+Aether will send your information.
+*botinfo
+Aether will send it's information.
