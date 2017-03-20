@@ -13,7 +13,7 @@ const now = require('performance-now')
 var information = require('./information.json');
 
 bot.on('ready', (g,m) => {
-    console.log('Bot online and ready to recieve commands. V0.0.8');
+    console.log('Bot online and ready to recieve commands. V0.0.9');
 });
 
 bot.on ('disconnect', () => {
